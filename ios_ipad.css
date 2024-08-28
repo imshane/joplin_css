@@ -13,7 +13,7 @@ table {
 th,
 td {
   font-weight: normal;
-  padding: 0.25em 0.5em;
+  padding: 0.25em 0.5em !important;
   line-height: 1.5;
   min-height: 1.5em;
 }
