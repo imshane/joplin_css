@@ -39,11 +39,16 @@ th {
   color: black;
 }
 .text-center {
-    text-align: center;
+  text-align: center;
 }
 .text-center td {
-    text-align: center;
+  text-align: center;
 }
 .text-center th {
-    text-align: center;
+  text-align: center;
+}
+.underline-details summary {
+  list-style: none;
+  cursor: pointer;
+  text-decoration: underline;
 }
