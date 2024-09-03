@@ -28,7 +28,7 @@ th {
 }
 .simple-table td {
   height: 29px;
-  min-width: 120px;
+  min-width: 80px;
 }
 .simple-table th {
   height: 29px;
