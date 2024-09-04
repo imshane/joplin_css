@@ -52,3 +52,6 @@ th {
   cursor: pointer;
   text-decoration: underline;
 }
+.underline-details summary::-webkit-details-marker {
+  display: none;
+}
